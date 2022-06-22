@@ -7,7 +7,7 @@
  <div align="center">Here is What I'm Working On! 👋 </div>
  </br>
  <div align="center"> - 🔭 I’m currently working on a personal project / Data Structures & Algorithms </div>
- <div align="center"> - 🌱 I’m currently learning C# </div>
+ <div align="center"> - 🌱 I’m currently learning TypeScript </div>
  <div align="center"> - 👯 I’m looking to collaborate on ...Social Media App </div>
  <div align="center"> - 🤔 I’m looking for help with ... .NET Framework </div>
  <div align="center"> - 💬 Ask me about ... Anything! </div>
