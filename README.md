@@ -7,12 +7,12 @@
  <div align="center">Here is What I'm Working On! 👋 </div>
  </br>
  <div align="center"> - 🔭 I’m currently working on a personal project / Data Structures & Algorithms </div>
- <div align="center"> - 🌱 I’m currently learning TypeScript </div>
+ <div align="center"> - 🌱 I’m currently learning Python </div>
  <div align="center"> - 👯 I’m looking to collaborate on ...Social Media App </div>
- <div align="center"> - 🤔 I’m looking for help with ... .AWS Practioner Certification </div>
+ <div align="center"> - 🤔 I’m looking for help with ...AI Machine Learning </div>
  <div align="center"> - 💬 Ask me about ... Anything! </div>
  <div align="center"> - 📫 How to reach me: devaratpatel1@gmail.com </div>
  <div align="center"> - 😄 Pronouns: ...He/Him/His </div>
- <div align="center"> - ⚡ Fun fact: ...I play Chess & I am a New York Jets Fan 🏈 </div>
+ <div align="center"> - ⚡ Fun fact: ...I play Chess & I am an avid New York Jets Fan 🏈 </div>
 </h4>
 
